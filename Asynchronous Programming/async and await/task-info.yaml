@@ -1,0 +1,20 @@
+type: theory
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 174
+        length: 100
+        placeholder_text: /* Add the definition of the doSomething async function using
+          await when calling doSomethingAsync */
+        initial_state:
+          length: 100
+          offset: 174
+        initialized_from_dependency: false
+        encrypted_possible_answer: NjcG2HmmvgfK/am67+XsT4Pvkr2HwM3bvIIFsnRzKUXFKy2tPga9cXmWZPhvOhcS/JySzXi8muAjfGueEHMJWQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
+post_submission_on_open: true

@@ -1,0 +1,27 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 163
+        length: 42
+        placeholder_text: /* Implement the function as documented */
+        initial_state:
+          length: 42
+          offset: 163
+        initialized_from_dependency: false
+        encrypted_possible_answer: J8Bvkjagnyo4uo2adKXD265GRnefg1PA4v57vjQo8W+xn6oU5HQXC90QYOGg8Tvmww8SA85DYfSJeQPMm57GrEymONwqaNimDr8LF+CmJwCWmXUKE/Rx08If+GBJ7Icj5e7w2BwzG6CTfNn91UWLke52TVWY1IBd2Lc6VyMoKbztUlm4+kvCl7TW45oDehP0nbacQCwOa4sM6uriuNKUsYN5G4Y300zA3K+0Roz+T8QfYPMsvlNBQs60Lx6JrcVB
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+  - name: users.json
+    visible: true
+    learner_created: false
+  - name: users_faulty.json
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1

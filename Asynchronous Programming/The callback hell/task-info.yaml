@@ -1,0 +1,28 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 518
+        length: 65
+        placeholder_text: /* Add code for reading filePath2 (handling success and error)
+          */
+        initial_state:
+          length: 65
+          offset: 518
+        initialized_from_dependency: false
+        encrypted_possible_answer: PkYVgDzsQK6fE4bBT/7c7OCVRRwz4GtzD+oQfwA/aBEYfqUDcQoNSdLYzMRKz8Dj3TEdgAyW+6cIz22JhBMK6FOJrE3feSJ1Yjdx9xt48vJFRdsFkZGStrxlgqrCtcIOa5CWh6QsCZPbFpxi4/0A+Dk9ht5uI441/e6ZBpz3wgz5HovD8uUpBSH5DgusPZyDZOG8KnR+McA1WWCQBEoOE9epyIDP8qfXo5QOSO1/rXToJXlCiPihY3ej5wEesDQKtZ4XXOlDHq5H50O+5Jnk2/usbq/Dn6XMOQoANvGEOuT3klDcF7gHO8zhWu7f+FbH
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/input1.txt
+    visible: true
+    learner_created: false
+  - name: test/input2.txt
+    visible: true
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

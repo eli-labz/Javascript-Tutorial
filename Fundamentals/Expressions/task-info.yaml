@@ -1,0 +1,201 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 202
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 202
+        initialized_from_dependency: false
+        encrypted_possible_answer: /gxBgZ9DkPurQeAhOZGqYg==
+        selected: false
+        status: Unchecked
+      - offset: 324
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 324
+        initialized_from_dependency: false
+        encrypted_possible_answer: oa+nVSRiKi7L3SNrfCrSCA==
+        selected: false
+        status: Unchecked
+      - offset: 441
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 441
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1jv4oI924ZkXwBNnWzUX/A==
+        selected: false
+        status: Unchecked
+      - offset: 560
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 560
+        initialized_from_dependency: false
+        encrypted_possible_answer: Qu7shsF+m/+OKkpPMAYcHQ==
+        selected: false
+        status: Unchecked
+      - offset: 682
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 682
+        initialized_from_dependency: false
+        encrypted_possible_answer: n/14/Rjb07m3Io2J2L2bQA==
+        selected: false
+        status: Unchecked
+      - offset: 803
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 803
+        initialized_from_dependency: false
+        encrypted_possible_answer: hbquGubkLAZDknknZE9Jfw==
+        selected: false
+        status: Unchecked
+      - offset: 919
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 919
+        initialized_from_dependency: false
+        encrypted_possible_answer: 1jv4oI924ZkXwBNnWzUX/A==
+        selected: false
+        status: Unchecked
+      - offset: 1038
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1038
+        initialized_from_dependency: false
+        encrypted_possible_answer: TApFM4pZr4W3x14ceqY0Bg==
+        selected: false
+        status: Unchecked
+      - offset: 1160
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1160
+        initialized_from_dependency: false
+        encrypted_possible_answer: 0N7vWGiJZ3AS86sHakOMlw==
+        selected: false
+        status: Unchecked
+      - offset: 1282
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1282
+        initialized_from_dependency: false
+        encrypted_possible_answer: VG7fqEGkhk0y6eqTieB3fw==
+        selected: false
+        status: Unchecked
+      - offset: 1400
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1400
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5LsmQiryY/EQFMPF9HQitw==
+        selected: false
+        status: Unchecked
+      - offset: 1523
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1523
+        initialized_from_dependency: false
+        encrypted_possible_answer: i00eevpDCkgtdx3mqEhkJA==
+        selected: false
+        status: Unchecked
+      - offset: 1645
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1645
+        initialized_from_dependency: false
+        encrypted_possible_answer: /VNIM9lPTardcA9xaJ54Qg==
+        selected: false
+        status: Unchecked
+      - offset: 1761
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1761
+        initialized_from_dependency: false
+        encrypted_possible_answer: O+LaGtnUN2iHx3riSrMFAQ==
+        selected: false
+        status: Unchecked
+      - offset: 1881
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1881
+        initialized_from_dependency: false
+        encrypted_possible_answer: kARzkaXqk1BNZVKs1fiXhw==
+        selected: false
+        status: Unchecked
+      - offset: 1999
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 1999
+        initialized_from_dependency: false
+        encrypted_possible_answer: A3QGFZNAq8JIg7e+3CoBww==
+        selected: false
+        status: Unchecked
+      - offset: 2118
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 2118
+        initialized_from_dependency: false
+        encrypted_possible_answer: x89QuglckNQczDD7qbVrTw==
+        selected: false
+        status: Unchecked
+      - offset: 2236
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 2236
+        initialized_from_dependency: false
+        encrypted_possible_answer: LwNO7dOWeFErQQIIHUBk3g==
+        selected: false
+        status: Unchecked
+      - offset: 2356
+        length: 46
+        placeholder_text: /* Add the literal value for the expression */
+        initial_state:
+          length: 46
+          offset: 2356
+        initialized_from_dependency: false
+        encrypted_possible_answer: OtDVKcT17IR/dNCCWWVjig==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

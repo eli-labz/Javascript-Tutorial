@@ -1,0 +1,32 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 160
+        length: 39
+        placeholder_text: /* Implement the call to setInterval */
+        initial_state:
+          length: 39
+          offset: 160
+        initialized_from_dependency: false
+        encrypted_possible_answer: 3UFrocZTcb8OFlAc5qfkl++YaHcMTtguvUUUJNcADUREt5HosufjL4OZIRxrl7o2
+        selected: false
+        status: Unchecked
+      - offset: 251
+        length: 88
+        placeholder_text: /* return a function that allows to stop the repeated execution
+          (using clearInterval) */
+        initial_state:
+          length: 88
+          offset: 251
+        initialized_from_dependency: false
+        encrypted_possible_answer: 6qK3WzAAxMnLdM0vaZrsFmiV3QYRvWzefdd54YyT7+r+2oBUnrC/mU2nUNt2raNBx/O+C3xpylvcKdIodmzcVw==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

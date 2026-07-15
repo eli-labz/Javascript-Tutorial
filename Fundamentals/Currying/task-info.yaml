@@ -1,0 +1,39 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+  - name: log.js
+    visible: true
+    learner_created: false
+  - name: substring.js
+    visible: true
+    placeholders:
+      - offset: 700
+        length: 65
+        placeholder_text: /* implement the getFirstCharacters function as a var variable
+          */
+        initial_state:
+          length: 65
+          offset: 700
+        initialized_from_dependency: false
+        encrypted_possible_answer: +vY55YlYsZv5sEPvCQCK6QRAJlcXza2rIr0D2Al6xWrl/SooqiWHvNiKb+0LJmrP98PNab2tKfhb6bFe5WNMtScADz7mz8bq5IHJgwVR3wc=
+        selected: false
+        status: Unchecked
+      - offset: 895
+        length: 64
+        placeholder_text: /* implement the getFirstCharacter function as a var variable
+          */
+        initial_state:
+          length: 64
+          offset: 895
+        initialized_from_dependency: false
+        encrypted_possible_answer: +vY55YlYsZv5sEPvCQCK6VRlOmwkRKCtmcZhwoymcNPHpnQSDGxEU9CPBiVVsqxRlvP9NGOkh7oC7p6rqHATvQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 76
+        length: 57
+        placeholder_text: /* Implement the executor with the documented behavior */
+        initial_state:
+          length: 57
+          offset: 76
+        initialized_from_dependency: false
+        encrypted_possible_answer: RDhY5TU+BpeQW8senpRKKtUONwfV5i0rrSYKa+Bow7cgQJTZYje1PkHoUy+W7kwVrAcuG99LgGQK0SpSz+jEk29n/OYVaWh2cGj/oAB9FSOIdpY5t4fJJ3Lye1eq+Vj/XKBSsRC4rdzB/PrHG14BhHBsdBfT4NIBOTrZbTOzrE2cqAzC0ltiROfU+Rkhg8iyJRcW6hTV3h3F0g1ZK1Yq9v0yW/MDAj7xEBaIfVX243k/yTnDOJIft1+2wk2dYM/HNntI+ImDhEyGCjCun3lvsdF/aaJRyPPPCOxOVPlvZdt8AgzRDbZKEvAq7wJa//v63EDAbEkiDx8ltRn6V3AA5w==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

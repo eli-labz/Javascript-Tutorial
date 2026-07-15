@@ -1,0 +1,35 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 280
+        length: 117
+        placeholder_text: /* Implement promise chaining as documented. In the last then
+          statement you must return a Promise that is resolved */
+        initial_state:
+          length: 117
+          offset: 280
+        initialized_from_dependency: false
+        encrypted_possible_answer: Z11KR9r5bSSSXJ9ueKCaym8vZ6S2A+P9ldA1r3eHr1t08kLcXSCtVOrpz8DhHo49MRKI4aWyPyYrkismaHgV8D3tZ96lJt3XdMgkovFg6CfXJDi4US9Bur4LuKIwp3qh/LqDsC+wJr5IIecs8f2VNGBRL6NlTIv6cdtBKAdh2YKU6JkRYPc5N3cFM8uNx5yW5dGcPG+YB86Na0gpFZy8ilv2PFiMx9P4BKkAvki8xdQ02RWtoVychj3ARUfyeSNCanoOG8nIxMaiTdWolZf/KVT0mQ2gI82v8NA/TtNfg+AMOvcoJQZUO9DGBGs/aKtM1RkPyk0W7VPzJqVB/J8mBRjKxC08MS3T8j5YpuxrMi5BwWo6OKkZG6lDVrTfVglSYdvjZU9J4bht0e5CBRtDVZKkqsEN9qp78WGG1ROnWsHaAi7jZFbaoH/j8O/oagPxNM8UjzFg80+KW36R2A2Lxg==
+        selected: false
+        status: Unchecked
+      - offset: 586
+        length: 51
+        placeholder_text: /* Implement the same behavior using async/await */
+        initial_state:
+          length: 51
+          offset: 586
+        initialized_from_dependency: false
+        encrypted_possible_answer: wI65NJXLuJBwJbcR/Xk/czi/GTrJ0k1EgbK0uXzuJMegZkafEHp2NwnjcFM7/olVgJX4AqWmw22GMd82cD4cZ6u9MZyGcdh93FpDSM+ZlLyRIWFm410lkPHgYKk6j3bHpRu0jyXfIU4ZQuaQM+GTrJ59BiPh0fW9Jsv+jaVyJ7V1ukKCYcG3N5eax5/tQMWZNzP53C/88B9h6Ns1S/8TyWSoI6A3AkJ5TLLMs0yUlnMKAoADMMb8kKPldw3YGhPs92ZV+6HJqZR3WnLifILhyjBdJXRt1YfRxg5xYi/FsEu25boZF/cMh6JySW1nUQi29KC+u1BHD8hueLA8aveqIxTfIVtINz7W5ecYN+7MT2eL0bJIm6bTYaPBngNTwEvp0kX/2bmSd5eNxSaeczg9KsHXa5EJjmUHHwi4/tk7uyVjkZEIsp64TfF+bwn2yewFec+broDAQYwtR11UgEqdCok1BoZFBerB7mYUMDhB2Gg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: users.json
+    visible: true
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

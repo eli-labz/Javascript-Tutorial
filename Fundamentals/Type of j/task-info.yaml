@@ -1,0 +1,18 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: number
+    is_correct: true
+  - text: string
+    is_correct: false
+  - text: undefined
+    is_correct: false
+  - text: unknown
+    is_correct: false
+files:
+  - name: task.js
+    visible: true
+    learner_created: false
+status: Unchecked
+record: -1
+local_check: true

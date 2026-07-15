@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 261
+        length: 72
+        placeholder_text: /* Write the function for matching floating point values as
+          specified */
+        initial_state:
+          length: 72
+          offset: 261
+        initialized_from_dependency: false
+        encrypted_possible_answer: SIlnksvrxUDqPhykt9aHi46+oLWt+FzwFbSTSkeB5zEMOIBS08W/tLLlfRk2XGv2IYOwyeKBKqExb7ro8Sto+A==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

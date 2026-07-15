@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>JavaScript Course Tutorial</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="topbar">
+        <div>
+          <p class="eyebrow">Interactive tutorial</p>
+          <h1 id="courseTitle">JavaScript Course</h1>
+          <p id="courseSummary" class="summary"></p>
+        </div>
+        <div class="topbar-stats">
+          <div class="stat-card">
+            <span class="stat-label">Progress</span>
+            <strong id="progressText">0 / 0 tasks</strong>
+            <div class="progress-track">
+              <div id="progressFill" class="progress-fill"></div>
+            </div>
+          </div>
+          <div class="stat-card">
+            <span class="stat-label">Current lesson</span>
+            <strong id="currentLessonText">—</strong>
+            <span id="currentTaskText" class="stat-subtle">Select a task to begin</span>
+          </div>
+        </div>
+      </header>
+
+      <div class="workspace">
+        <aside class="sidebar">
+          <div class="sidebar-header">
+            <label class="search-box" for="searchInput">
+              <span>Search lessons and tasks</span>
+              <input id="searchInput" type="search" placeholder="Try 'variables' or 'async'" />
+            </label>
+            <button id="resetButton" class="ghost-button" type="button">Reset progress</button>
+          </div>
+          <div id="sidebarContent" class="sidebar-content"></div>
+        </aside>
+
+        <main class="viewer">
+          <section id="recommendationsPanel" class="card recommendations-panel hidden">
+            <div class="recommendations-head">
+              <div>
+                <p class="eyebrow eyebrow-dark">Automatic guidance</p>
+                <h2>Recommended next lessons</h2>
+              </div>
+              <p id="recommendationSummary" class="recommendation-summary"></p>
+            </div>
+            <div id="recommendationsList" class="recommendations-list"></div>
+          </section>
+
+          <section id="welcomePanel" class="card welcome-panel">
+            <h2>Start exploring the course</h2>
+            <p>
+              Choose a lesson from the left panel to open its tasks, read the theory,
+              test yourself in quiz mode, inspect the example files, and track your progress as you learn.
+            </p>
+            <div class="welcome-grid">
+              <div>
+                <h3>What you can do</h3>
+                <ul>
+                  <li>Browse all course lessons and tasks</li>
+                  <li>Read the task instructions in rendered markdown</li>
+                  <li>Take a quiz on theory tasks</li>
+                  <li>Switch between source files and support files</li>
+                  <li>Run runnable examples in the playground</li>
+                  <li>Mark tasks as completed and continue later</li>
+                </ul>
+              </div>
+              <div>
+                <h3>Tip</h3>
+                <p>
+                  Use search to quickly find topics such as <strong>closures</strong>,
+                  <strong>JSON</strong>, or <strong>promises</strong>.
+                </p>
+              </div>
+            </div>
+          </section>
+
+          <section id="taskPanel" class="card task-panel hidden">
+            <div class="task-header">
+              <div>
+                <p id="breadcrumbs" class="breadcrumbs"></p>
+                <h2 id="taskTitle"></h2>
+                <div id="taskMeta" class="meta-row"></div>
+              </div>
+              <div class="task-actions">
+                <button id="prevButton" class="ghost-button" type="button">← Previous</button>
+                <button id="completeButton" class="primary-button" type="button">Mark complete</button>
+                <button id="nextButton" class="ghost-button" type="button">Next →</button>
+              </div>
+            </div>
+
+            <div class="mode-bar">
+              <div class="mode-tabs">
+                <button class="mode-button active" type="button" data-mode="read">Read</button>
+                <button class="mode-button" type="button" data-mode="quiz">Quiz</button>
+                <button class="mode-button" type="button" data-mode="playground">Playground</button>
+              </div>
+              <p id="modeHint" class="mode-hint"></p>
+            </div>
+
+            <section id="studyView" class="mode-view">
+              <div class="file-toolbar">
+                <div id="fileTabs" class="file-tabs"></div>
+                <button id="copyButton" class="ghost-button" type="button">Copy file</button>
+              </div>
+
+              <article id="fileViewer" class="file-viewer"></article>
+            </section>
+
+            <section id="quizView" class="mode-view hidden quiz-view">
+              <div class="quiz-toolbar">
+                <div>
+                  <h3>Theory quiz</h3>
+                  <p>Answer the questions to check your understanding of the lesson.</p>
+                </div>
+                <div class="quiz-actions">
+                  <button id="quizSubmit" class="primary-button" type="button">Check answers</button>
+                  <button id="quizReset" class="ghost-button" type="button">Reset quiz</button>
+                </div>
+              </div>
+              <p id="quizStatus" class="quiz-status"></p>
+              <div id="quizQuestions" class="quiz-questions"></div>
+            </section>
+
+            <section id="playgroundView" class="mode-view hidden playground-view">
+              <div class="playground-toolbar">
+                <div>
+                  <h3>Runnable playground</h3>
+                  <p id="playgroundHint">Edit the code and run it in the in-browser sandbox.</p>
+                </div>
+                <div class="playground-actions">
+                  <button id="playgroundReset" class="ghost-button" type="button">Reset code</button>
+                  <button id="playgroundRun" class="primary-button" type="button">Run code</button>
+                </div>
+              </div>
+              <textarea id="playgroundEditor" class="playground-editor" spellcheck="false" aria-label="Code playground"></textarea>
+              <div id="playgroundOutput" class="playground-output" aria-live="polite"></div>
+            </section>
+          </section>
+        </main>
+      </div>
+    </div>
+
+    <script src="./app-v2.js"></script>
+  </body>
+</html>
+

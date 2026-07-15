@@ -1,0 +1,24 @@
+content:
+  - Variables
+  - Basic types
+  - Dynamic typing
+  - Type of j
+  - Type conversions
+  - String conversions
+  - Numeric conversions
+  - Boolean conversions
+  - Operators
+  - Expressions
+  - JavaScript strict mode
+  - Objects
+  - Functions
+  - Function invocation
+  - Recursive function
+  - Function arguments
+  - Function as argument to function
+  - Arrow functions
+  - Functions and closures
+  - Multiplier function
+  - Bank account
+  - Currying
+  - Error handling

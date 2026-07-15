@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 437
+        length: 67
+        placeholder_text: /* Implement the function for delivering the result as specified
+          */
+        initial_state:
+          length: 67
+          offset: 437
+        initialized_from_dependency: false
+        encrypted_possible_answer: SIlnksvrxUDqPhykt9aHi0aysTYB+F390YJo2wcZzwzt13SboXrwUVPuNUg6/2fq73O1G4d5BGjbhcz+jGRPhNQRt7aZzKfFHfIP5WZF2uHngBQkD0ShaRYVUgTrUTIy2/JKdq1st5B4bLYOhkYrCE1vauTXrfJk5cYLfnbELr/DMI/yo6fF94M4KBtEK3vjLpQ64CdVHuQHw+2b9g+3uNgKxwfxXcsZ0J+rqJaBTTVTROhB8z5GWw+OHIMG4tAsJn5fmQq6vBZ2ObRox++A5Gydx4nS1QvfHR1NtlBzcrCLT47sjdXzvO5TZUHMO/JWZXqZBeE5Gn2A3SJ2ceGkpRb24t2ZXm/0U/xaPNleM83n2y1MjZNHe84etld22L1vTK7W1S1ec50XqUTv/lu8wp0VURYaN/KuRjKIbJ1UhILWvo8WCMxIEXCNaEP0R645hto4MszUyC0TAtWS4XmYEDcpXjjZGeqwoSdxMr+KOb+C3FcBg//BoCKkwu6UC5XrCBmCxxxKwhmHzHJREuldYLhhOajswj4MLdZIJLihQDNXW6Jd4bLa3MpA2zP1ToFEBnZ41lkhmO76b380rSKx4ihpxsCyWSveQvnRdMo25Kk34oqSN8x40VoEOKi9/9ca
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

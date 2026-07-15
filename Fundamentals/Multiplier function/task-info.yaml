@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 75
+        length: 43
+        placeholder_text: /* Implement the makeMultiplier function */
+        initial_state:
+          length: 43
+          offset: 75
+        initialized_from_dependency: false
+        encrypted_possible_answer: SDeNLLu+yAOe17H0yiQB0CQrNjAvR6J0psCefQAByhyhEZxEH64PiJDofYMGDk5dgEuYdlLbUvYoakyiI0lv7g==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

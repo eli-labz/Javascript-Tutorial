@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 120
+        length: 50
+        placeholder_text: /* Add your code here for proper error handling */
+        initial_state:
+          length: 50
+          offset: 120
+        initialized_from_dependency: false
+        encrypted_possible_answer: CljLE36fH30CPJvyVvAz2hh9hCVP6HBR9caSQk/sW/755TZ4SzunMrW/bttHaVt1VeRSTRJmGwwqnRwvlEJSimqwN5gwLKMYK01fguG3sv9c+2tcR3YzvfFU8DFVTk4glOwzXkEgTBcR1/t8kBn01jBqvYX6iGet8Dv2zG4ZYeG5mTwy4xQbK6fwEEW4HsrS2pWpTVN0yxyy/xeyFagxjRUh6lkbv3vOkN6KA7I+tnxbDipTLC/BxeTgcyUBdFSCssToT4ArZ5JHHG3ToTS5dQ==
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

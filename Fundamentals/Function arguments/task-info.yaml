@@ -1,0 +1,22 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 392
+        length: 65
+        placeholder_text: /* Add the function body (it should not take more than 4 lines
+          */
+        initial_state:
+          length: 65
+          offset: 392
+        initialized_from_dependency: false
+        encrypted_possible_answer: 7qCzYtItjwZKYx2sVvMO6qwkY7FlUlr3nJ3o2DiIqQ8rUjCaCXO9vzTFLx0Ux0QWbFOuh8qMt4poOpjjy/7kDS7Yx66Jog9UDp0cnEo2wR6f8nxjRgFkFOoGYpVhoJVnwypbC5btQtVwdtBBr03zrx64PsAXljJ6PUc47OZlHoRAUHzKJWUXQHhdKT8GB2UvuJsbewtxL2sxyRASxVLKBeg82ue/Ug+ygAUJjIFhqFk=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,12 @@
+[
+  {
+    "username": "backend",
+    "password": "weloveit",
+    "id": 1
+  },
+  {
+    "username": "backend_onnode",
+    password: "weloveit_evenmore",
+    "id": 2
+  }
+]

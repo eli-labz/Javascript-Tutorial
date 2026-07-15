@@ -1,0 +1,38 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 544
+        length: 36
+        placeholder_text: /* write the 'data' event handler */
+        initial_state:
+          length: 36
+          offset: 544
+        initialized_from_dependency: false
+        encrypted_possible_answer: lGlFUXHt5rKmQUQ0pk1uRrRUAOFEYtVIKy3BSFcGHU2r3HS/FjUixK1jml3zsLnNxaq6uXI9KDeRl7VfZn2+fX7qguU1bPlx82PI076pRhyaFhGpRbDCnErxexolyk/BruXksUZl+/I2qVdW/To0d8fpfzQaf9lxF90+wZDAuZ8=
+        selected: false
+        status: Unchecked
+      - offset: 627
+        length: 74
+        placeholder_text: /* write the 'end' event handler (must call end() on the writableStream
+          */
+        initial_state:
+          length: 74
+          offset: 627
+        initialized_from_dependency: false
+        encrypted_possible_answer: krgY+BhfmDXHvLHNqXawnngv7K7w6IjVVP5oY0cd0E0thqKmiQFtzt6z+IYwa8ZRieXbZxXOcYVeFw/b8EJY5ftmRMLHqmGs9KJdM0rDb2k=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: data.txt
+    visible: true
+    learner_created: false
+  - name: example.js
+    visible: true
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

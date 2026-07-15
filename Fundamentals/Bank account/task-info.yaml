@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 156
+        length: 51
+        placeholder_text: /* Add the bankAccount() function implementation */
+        initial_state:
+          length: 51
+          offset: 156
+        initialized_from_dependency: false
+        encrypted_possible_answer: 19B7Yy2JOzE1Ywkb9tMuNaKnpZxlOJ0CRu2+OkrRBGKe7bRYw6nOMUIMxqv5k+NDlFnC9iNgxoMXetbZoRnoaFdXU0R1RpktIjXr/Yko2rScEtv2PQhYmb0XB4IW8+qmjNxThnDiS7BJ5hQ7p4kyI91NEGqUDl5oMVIONarO+9/irGkE1jphSSaENR+yA2JreWOwbsh5CAozlCbK0/FiXuuoF0ImexCuSZSZPmHmkJSoXwyM7UhIjCv7vVgDKsJysJlxhoVDaX8iL7CosfYgCjCDkxhZmI2ocWMPX8wXjbuBVaHldQNLH1+eykJ3OoXEIpo+aUNOWQTLzscnXKFuhcUYZ9hF7y4jMzyeEa4xR+gk1/c50mU44qCk+PUZN042wavgWTuZOi5Tdgl1QpipKH0h5LW41/j8KnXMTyFRlvjYYF9/uA3PhfhmFDVc3pMA+jcgnC2WvCsEwMYkK+dVbcUeADidvRUPStPLWJDBL3qNj8PzTqOl81WoGDyLLHULqaeLtBSqK7jAAYzjwPo6ATwTaIG5Xv5ZECBfu995akrNjmwa1mzTAqHoYRl73S/d
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

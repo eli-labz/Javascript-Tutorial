@@ -1,0 +1,24 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    learner_created: false
+  - name: vigenere.js
+    visible: true
+    placeholders:
+      - offset: 600
+        length: 42
+        placeholder_text: /* Add code for encoding each character */
+        initial_state:
+          length: 42
+          offset: 600
+        initialized_from_dependency: false
+        encrypted_possible_answer: 9DriSPie/Xo/Fi/dKvNHmx8buvIIRuW5qCqVuEa80iQCF6Hn0E5tyVqYfZf/uk5YC8uiRWVqsqWWVqpmErOSpbjchBFWtjSxO5liFs2fFh9v9VrJnDAymn13Rhk5Hnx6kCIH08LPElgQ8kc4EJJev9/plQ4KrrJ+RUIX4n7I9uBeQ+UZ+qMBg9ocyiyaS6zycHMx1ar6pRq1F11muOVwg0RwDVy2OxFrvoHBNj8kN4trbe0ZBqBHV6Y0VIWsRkoFAu1LedeuCg51crJv/MfrE/YM9soL/gggekOkZKLjPCOiPDIV84iaSY1FNcNUx+q0TYhjHpXZbt+oWDbpSJK5CT80Pmq36h3DpLJUcqAcK9MzbYejvOnvFzoLxFhRaKweMBFOGjTQhjHqJLeRE9140Ao94YhG/GxO5jYckcvzC/cZgi/W6toFQkgJBr07baS8
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

@@ -1,0 +1,41 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 307
+        length: 52
+        placeholder_text: /* Add function definition using the arrow syntax */
+        initial_state:
+          length: 52
+          offset: 307
+        initialized_from_dependency: false
+        encrypted_possible_answer: 5vSiYGF9v8yy353CNRMklw==
+        selected: false
+        status: Unchecked
+      - offset: 414
+        length: 52
+        placeholder_text: /* Add function definition using the arrow syntax */
+        initial_state:
+          length: 52
+          offset: 414
+        initialized_from_dependency: false
+        encrypted_possible_answer: Y4otP8YQDILRA9JBqTZmHfK4CxHmtNXHC92BGWWTkWc=
+        selected: false
+        status: Unchecked
+      - offset: 553
+        length: 52
+        placeholder_text: /* Add function definition using the arrow syntax */
+        initial_state:
+          length: 52
+          offset: 553
+        initialized_from_dependency: false
+        encrypted_possible_answer: wyyhvh0uIbOBaoa2lXj8G/AZ/lA5HyhJ4AvKh45d8dg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

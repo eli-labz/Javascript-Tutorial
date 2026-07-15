@@ -1,0 +1,4 @@
+This is an example of the file
+that contains three lines
+for demonstrating readable streams.
+

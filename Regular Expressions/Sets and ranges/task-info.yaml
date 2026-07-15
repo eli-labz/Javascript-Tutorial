@@ -1,0 +1,21 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    placeholders:
+      - offset: 345
+        length: 56
+        placeholder_text: /* Write the function for matching times as specified */
+        initial_state:
+          length: 56
+          offset: 345
+        initialized_from_dependency: false
+        encrypted_possible_answer: SIlnksvrxUDqPhykt9aHi9n6bt9wQbV64nhwDbQvr9uStoNDMihbJHtpcOrhLNZMuLVn3PAdhiqyHrMUsKVS4XGKRFpQuFJfabYxtk8J3Wg=
+        selected: false
+        status: Unchecked
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+status: Unchecked
+record: -1

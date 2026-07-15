@@ -1,0 +1,30 @@
+type: edu
+files:
+  - name: task.js
+    visible: true
+    learner_created: false
+  - name: test/test.js
+    visible: false
+    learner_created: false
+  - name: question.json
+    visible: true
+    placeholders:
+      - offset: 2
+        length: 262
+        placeholder_text: |-
+          "question": 180111,
+            "title": "What does \'E pluribus unum\' mean?",
+            "date": 2007 / 01 / 10 19: 48: 38,
+            "body": "I am not sure what the meaning of this voto is. I know that it appears on the US Great Seal...",
+            "from": "112221",
+            "username": "joe.dalton",
+        initial_state:
+          length: 262
+          offset: 2
+        initialized_from_dependency: false
+        encrypted_possible_answer: ni6XlGQ0/xWoXFcHfx/Y5oQ1xv6k8rzs6OAK8sNfMWix/mEsHnus8nDpAHyNDz0suzetV20FkFOxc2HyraPL3gvspLCzMac9E4QJkOw84Tyfm01PWsf2S0lRXNUTnM1LMfWermxC7cMI8YJIQm0Kb+Lg+DBKUmpu9AxunRypQQe+EuBfjGMWyc7dSzPAAHSPE9l+eiF28jDDaHaVDs13bUWW+StCJnl2ZT7DorS54mJpdwkxFGIE4eXCJH2uUVu5swo0Ee0A2xv8qdw4lVPhs++kQgljeO4CVxNrk0FCf07FzjvqFa3JchyVpHfd1+clC+syLX6NxWfagJHCtqgmh5JpHPJdC6jt8zn9hqw9FdU=
+        selected: false
+        status: Unchecked
+    learner_created: false
+status: Unchecked
+record: -1
